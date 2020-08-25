@@ -14,8 +14,5 @@ The data for this project are the satellite imagery for Borneo from the LANDSAT 
 ## Code
 The scripts are mostly in Python and R.
 
-## Contact
-achamb@stanford.edu; zacycliu@stanford.edu or ssokolow@stanford.edu
-
 ## Last updated
 August 20, 2020 
