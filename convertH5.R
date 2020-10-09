@@ -25,6 +25,7 @@ filename
 
 i <- 1
 
+#gives error 
 for (i in 1:888){
   sds <- get_subdatasets(files[i])
   gdal_translate(sds[1], dst_dataset = filename[i])
