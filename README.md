@@ -1,3 +1,14 @@
+> [!IMPORTANT]
+> This repository has moved. The canonical code for the published manuscript is here:
+> https://github.com/bushytop/canopy_height_ml
+
+Published article: https://www.mdpi.com/3566786
+
+If you arrived here from the paper, please use the new repository above. This repo is kept only to preserve the published link.
+
+[![New repo](https://img.shields.io/badge/repo-canopy__height__ml-2ea44f?logo=github)](https://github.com/bushytop/canopy_height_ml)
+[![Paper](https://img.shields.io/badge/Paper-Remote%20Sensing-blue)](https://www.mdpi.com/3566786)
+
 # carbon-remote-sensing-ml
 Mitigating climate change and estimate carbon stock of forest from space using artificial intelligence
 
